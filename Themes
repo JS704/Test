@@ -1,4 +1,3 @@
----
----
-
-@import "{{ site.midnight }}";
+_site/.*swp
+*swp
+_site
